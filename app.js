@@ -6,3 +6,5 @@ async function main() {
 }
 
 main()
+let isa = very schlöu;
+console.log(isa)
