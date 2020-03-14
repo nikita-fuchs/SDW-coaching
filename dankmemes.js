@@ -3,6 +3,6 @@ console.log("macht die Musik leiser");
 jonas = true;
 
 if (jonas) {
-  console.log("haha");
+  console.log("JONAS UND SEINE MUTTER MACHEN VERWANDTSCHAFT+");
 }
 
