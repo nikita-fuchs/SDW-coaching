@@ -6,3 +6,4 @@ if (jonas) {
   console.log("JONAS UND SEINE MUTTER MACHEN VERWANDTSCHAFT+");
 }
 
+console.log("hello world");
